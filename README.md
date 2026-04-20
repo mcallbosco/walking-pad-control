@@ -8,6 +8,9 @@ A native Android app for controlling **PitPat BA02** walking pad treadmills over
 
 Built with Kotlin and Jetpack Compose, following Material Design 3.
 
+![alt text](https://github.com/mcallbosco/walking-pad-control/raw/master/blob/main/screenshot.png "Screenshot")
+
+
 ## Features
 
 - Scan and connect to PitPat BLE treadmills
